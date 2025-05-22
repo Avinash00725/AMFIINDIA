@@ -15,4 +15,4 @@
 119550;INF209K01YN0;-;Aditya Birla Sun Life Banking & PSU Debt Fund- Direct Plan-Growth;381.519;21-May-2025
 ```
 
-So to get the Sheme value used $4 and $5.
+So to get the Scheme value and Asset value  from the `https://www.amfiindia.com/spages/NAVAll.txt` used $4 and $5.
